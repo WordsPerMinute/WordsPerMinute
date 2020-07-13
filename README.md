@@ -1,9 +1,7 @@
-# Words Per Minute  
-## Hola and welcome 🤗  
-<hr>
+# Hola and welcome 🤗 to WordsPerMinute's profile README 
 ### Here's what I'm up to (updated July 2020)  
-🌱 Ionic React for my first mobile app  
-🔭 Currently working on a responsive design update for https://github.com/bdell/goto.pizza  
+🌱 Learning Ionic React for my first mobile app  
+🔭 Working on a responsive design update for https://github.com/bdell/goto.pizza  
 
 <!--
 **WordsPerMinute/WordsPerMinute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
