@@ -1,9 +1,9 @@
-# 🤗 Hola and welcome to WordsPerMinute's profile README 
+# Hola and welcome to WordsPerMinute's profile README 🤗 
 🌄 JavaScript/Ruby developer living at high altitude.
 ### Here's what I'm up to (updated July 2020)  
 🌱 Learning Ionic React for my first mobile app  
 🔭 Working on a responsive design update for [Goto.Pizza](https://github.com/bdell/goto.pizza)  
-🤔 Learning about computer science concepts beyond the scope of the bootcamp I attended, using InterviewCake and Codewars with a [log here](https://github.com/WordsPerMinute/codewars)
+🤔 Learning computer science concepts beyond the scope of my coding bootcamg, using InterviewCake and Codewars [log here](https://github.com/WordsPerMinute/codewars)
 
 #### 📝 Latest articles
 * [Why did I learn to code, and stop teaching (for now)?](https://medium.com/@coreyhodgedotnet/why-did-i-learn-to-code-and-stop-teaching-for-now-280574373cda) 
