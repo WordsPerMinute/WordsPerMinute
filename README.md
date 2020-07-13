@@ -1,4 +1,4 @@
-# Hola and welcome 🤗 to WordsPerMinute's profile README 
+# 🤗 Hola and welcome to WordsPerMinute's profile README 
 🌄 JavaScript/Ruby developer living at high altitude.
 ### Here's what I'm up to (updated July 2020)  
 🌱 Learning Ionic React for my first mobile app  
