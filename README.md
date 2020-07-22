@@ -6,6 +6,7 @@
 🤔 Learning computer science concepts beyond the scope of my coding bootcamp, using InterviewCake and Codewars [log here](https://github.com/WordsPerMinute/codewars)
 
 #### 📝 Latest articles
+* [My First Mobile App (part 1): Why did I chose Ionic over React Native and Flutter?](https://medium.com/@coreyhodgedotnet/my-first-mobile-app-part-1-why-did-i-chose-ionic-over-react-native-and-flutter-2361221220b7) 
 * [Why did I learn to code, and stop teaching (for now)?](https://medium.com/@coreyhodgedotnet/why-did-i-learn-to-code-and-stop-teaching-for-now-280574373cda) 
 * [My food truck tracker app, FoodTrucks.Show, and how Vue.js’ emit function simplified things](https://medium.com/@coreyhodgedotnet/my-food-truck-tracker-app-foodtrucks-show-and-how-vue-js-emit-function-helped-2d2be7f2edc3)
 * [A favicon is that tiny icon on a browser tab. Here are the basics to make one!](https://medium.com/@coreyhodgedotnet/a-favicon-is-that-tiny-icon-on-a-browser-tab-here-are-the-basics-to-make-one-5e9d895f3df0)
