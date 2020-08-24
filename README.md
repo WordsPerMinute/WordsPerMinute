@@ -1,11 +1,12 @@
 # Hola and welcome to WordsPerMinute's profile README 🤗 
 🌄 JavaScript/Ruby developer living at high altitude.
-### Here's what I'm up to (updated July 2020)  
-🌱 Learning Ionic React for my first mobile app  
-🔭 Working on a responsive design update for [Goto.Pizza](https://github.com/bdell/goto.pizza)  
-🤔 Learning computer science concepts beyond the scope of my coding bootcamp, using InterviewCake and Codewars [log here](https://github.com/WordsPerMinute/codewars)
+### Here's what I'm up to (updated Aug 2020)  
+🌱 Built my first app related to linguistics [Spanish Diminutive Generator](https://github.com/WordsPerMinute/spanish-diminutive-generator), looking forward to deploying it  
+🔭 Bug fixing for [Goto.Pizza](https://github.com/bdell/goto.pizza), repsonsive design next  
+🤔 Learning computer science concepts beyond the scope of my coding bootcamp, using InterviewCake and Codewars [log here](https://github.com/WordsPerMinute/codewars)  
 
 #### 📝 Latest articles
+* [How I Built a Simple Web Scraper](https://coreyhodge.net/blog/building-a-web-scraper/) 
 * [My First Mobile App (part 1): Why did I chose Ionic over React Native and Flutter?](https://medium.com/@coreyhodgedotnet/my-first-mobile-app-part-1-why-did-i-chose-ionic-over-react-native-and-flutter-2361221220b7) 
 * [Why did I learn to code, and stop teaching (for now)?](https://medium.com/@coreyhodgedotnet/why-did-i-learn-to-code-and-stop-teaching-for-now-280574373cda) 
 * [My food truck tracker app, FoodTrucks.Show, and how Vue.js’ emit function simplified things](https://medium.com/@coreyhodgedotnet/my-food-truck-tracker-app-foodtrucks-show-and-how-vue-js-emit-function-helped-2d2be7f2edc3)
