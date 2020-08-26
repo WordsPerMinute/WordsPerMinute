@@ -1,5 +1,5 @@
 # Hola and welcome to WordsPerMinute's profile README 🤗 
-🌄 JavaScript/Ruby developer living at high altitude.
+🌄 JavaScript/Ruby developer living at high altitude.  
 [Portfolio Site and Blog](https://coreyhodge.net)
 
 ### Here's what I'm up to (updated Aug 2020)  
