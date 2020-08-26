@@ -1,5 +1,7 @@
 # Hola and welcome to WordsPerMinute's profile README 🤗 
 🌄 JavaScript/Ruby developer living at high altitude.
+[Portfolio Site and Blog](https://coreyhodge.net)
+
 ### Here's what I'm up to (updated Aug 2020)  
 🌱 Built my first app related to linguistics [Spanish Diminutive Generator](https://github.com/WordsPerMinute/spanish-diminutive-generator), looking forward to deploying it  
 🔭 Bug fixing for [Goto.Pizza](https://github.com/bdell/goto.pizza), repsonsive design next  
