@@ -1,8 +1,9 @@
 # Hola and welcome to WordsPerMinute's profile README 🤗 
-🌄 JavaScript/Ruby developer living at high altitude.  
+🌄 JavaScript(TypeScript)/Python/Ruby developer living at high altitude.  
 🔗 [Portfolio Site and Blog](https://coreyhodge.net)
 
-### Here's what I'm up to (updated Aug 2020)  
+### Here's what I've been up to recently (updated Feb 2022)  
+🛸 Working on a spaceship pixel-art blockchain project called Spaceport Galactic
 🌱 Built my first app related to linguistics [Spanish Diminutive Generator](https://github.com/WordsPerMinute/spanish-diminutive-generator), looking forward to deploying it  
 🔭 Bug fixing for [Goto.Pizza](https://github.com/bdell/goto.pizza), repsonsive design next  
 🤔 Learning computer science concepts beyond the scope of my coding bootcamp, using InterviewCake and Codewars [log here](https://github.com/WordsPerMinute/codewars)  
